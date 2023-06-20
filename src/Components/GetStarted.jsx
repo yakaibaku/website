@@ -1,15 +1,12 @@
 import React from "react";
-import launch from '../assets/discount.png'
+import banner from '../assets/yakainame.png'
+import { MeshDistortMaterial, Sphere } from '@react-three/drei'
+import { Canvas } from '@react-three/fiber'
 
 const GetStarted = () => {
     return (
         <div class="card">
-            {/* <div class="block w-52 bg-gradient-to-br from-slate-100 to-blue-600 cursor-pointer p-[2px] border rounded-lg shadow">
-             <a href="">
-                  <h5 class="card-title text-center font-bold">Launchpad</h5>
-                  <p className="text-center font-medium text-[18px] leading-[23px]">Go to Launchpad</p>
-    </a> 
-            </div>*/}
+          <img src={banner} className="h-72 w-72 animate-pulse" alt="banner" />
         </div>
     )
 }

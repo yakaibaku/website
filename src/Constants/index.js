@@ -26,8 +26,8 @@ export const footerLinks = [
     title: "Useful links",
     links: [
       {
-        name: "white paper",
-        link: "#",
+        name: "White paper",
+        link: "https://www.agentsuperuser.github.io/",
       },
     ]
   },
@@ -36,15 +36,15 @@ export const footerLinks = [
     links: [
       {
         name: "Twitter",
-        link: "#",
+        link: "https://www.hoobank.com/help-center/",
       },
       {
         name: "Chat",
-        link: "#",
+        link: "https://www.hoobank.com/partners/",
       },
       {
         name: "Telegram",
-        link: "#",
+        link: "https://www.hoobank.com/suggestions/",
       },
     ],
   },
@@ -53,11 +53,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "#",
+        link: "https://www.hoobank.com/our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "#",
+        link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
   },

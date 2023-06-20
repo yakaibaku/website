@@ -151,21 +151,19 @@
   border-radius: 1%;
 }
 
-
 .root2{
   margin-top: 150px;
   height: 50vh;
+  width: 60%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .container2{
-  max-width: 500px;
-  width: 100%;
-  margin: 0 15px;
-  padding: 10px 20px;
-  border-radius: 7px;
+  width: 70%;
+  padding: 0px 10px;
+  border-radius: 15px;
 }
 
 .title-text{
@@ -207,14 +205,13 @@
   opacity: 0;
 }
 
-
-.sale{
+.farming{
   background: yellowgreen;
-  width: 25%;
+  width: 30%;
   animation-delay: 0.1s;
 }
 
-.airdrop{
+.staking{
   background: khaki;
   width: 5%;
   animation-delay: 0.2s;
@@ -222,37 +219,31 @@
 
 .development{
   background: olivedrab;
-  width: 25%;
+  width: 9%;
   animation-delay: 0.2s;
 }
 
-.team{
+.tokensale{
   background: lightskyblue;
-  width: 2.5%;
+  width: 16.5%;
   animation-delay: 0.3s;
 }
 
-.promoters{
+.team{
   background: #33bbcf;
-  width: 2.5%;
+  width: 14%;
   animation-delay: 0.2s;
 }
 
-.lock{
+.investors{
   background: steelblue;
-  width: 30%;
+  width: 17%;
   animation-delay: 0.2s;
 }
 
-.liquidity{
+.market{
   background: yellow;
-  width: 5.0%;
-  animation-delay: 0.2s;
-}
-
-.Partnerships{
-  background: yellow;
-  width: 5.0%;
+  width: 8.5%;
   animation-delay: 0.2s;
 }
 
